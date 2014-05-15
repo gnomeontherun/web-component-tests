@@ -1,0 +1,21 @@
+{
+  "name": "web-component-tests",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gnomeontherun/web-component-tests",
+  "authors": [
+    "Jeremy Wilken <gnomation@gnomeontherun.com>"
+  ],
+  "description": "Some web component tests",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.2.3"
+  }
+}
